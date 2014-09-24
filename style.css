@@ -1,0 +1,132 @@
+body{
+	font-family: 'Campton-Book';
+	padding-bottom: 80px;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.row{
+	width: 960px;
+	margin: auto;
+}
+.unit{
+	text-align: center;
+}
+#header{
+	margin-top: 100px;
+}
+h2.title{
+	font-size: 50px;
+	color: #000000;
+	line-height: 59px;
+	text-align: center;
+	margin: 0px;
+	margin-top: 25px;
+	margin-bottom: 6px;
+}
+h3.subtitle{
+	color: #7E7E7E;
+	font-size: 50px;
+	margin: 0px;
+	margin-bottom: 45px;
+}
+#address{
+	margin-bottom: 55px;
+}
+#address p{
+	font-family: Campton-Light;
+	font-size: 22px;
+	color: #000000;
+	line-height: 31px;
+	margin-bottom: 0px;
+}
+#address p.grey{
+	color: #909090;
+	font-size: 18px;
+}
+#pick{
+	background: url(photo.JPG) no-repeat center center;
+	display: block;
+	width: 100%;
+	background-size: 639px;
+	height: 246px;
+	margin-bottom: 90px;
+}
+.b-title{
+	font-size: 35px;
+	color: #000000;
+	line-height: 42px;
+	padding: 19px 0px;
+	border-bottom: 2px dashed #B5B5B5;
+}
+.b-title a{
+	color: #000;
+	text-decoration: none;
+}
+.b-title a:hover{
+	color: #2E95AF;
+}
+.member{
+	float: left;
+	width: 33%;
+	text-align: center;
+	margin-top: 58px;
+	margin-bottom: 8px;
+}
+.member.is-last{
+	float: none;
+	margin: auto;
+	clear: both;
+	padding-top: 58px;
+	padding-bottom: 91px;
+}
+.member .image{
+	width: 111px;
+	height: 111px;
+	display: inline-block;
+	border-radius: 100%;
+	border: 1px solid #ccc;
+	margin-bottom: 21px;
+}
+.member h2{
+	margin: 0px;
+	margin-bottom: 5px;
+}
+.member-is{
+	color: #000000;
+	font-family: 'Campton-Light';
+	font-size: 24px;
+}
+.member-name{
+	color: #000000;
+	font-weight: bold;
+	font-family: 'Campton-Medium';
+	font-size: 28px;	
+}
+.member-no{
+	font-size: #24px;
+	color: #7E7E7E;
+}
+#meeting{
+	border-radius: 8px;
+	background: #BCFFF0;
+	margin-top: 41px;
+	border: 1px solid rgba(255,255,255,0.50);
+	padding: 18px;
+}
+#meeting h2{
+	font-size: 35px;
+	color: #000000;
+	line-height: 42px;
+	margin: 0px;
+	margin-top: 10px;
+}
+#meeting h4{
+	font-size: 22px;
+	font-weight: lighter;
+	margin: 0px;
+	margin-top: 1px;
+	color: #000000;
+	line-height: 31px;
+}

@@ -1,0 +1,81 @@
+
+@font-face {
+	font-family: 'Campton-Black';
+	src: url('Campton-Black.eot?') format('eot'), 
+	     url('Campton-Black.otf')  format('opentype'),
+	     url('Campton-Black.woff') format('woff'), 
+	     url('Campton-Black.ttf')  format('truetype'),
+	     url('Campton-Black.svg#Campton-Black') format('svg');
+}
+
+@font-face {
+	font-family: 'Campton-Bold';
+	src: url('Campton-Bold.eot?') format('eot'), 
+	     url('Campton-Bold.otf')  format('opentype'),
+	     url('Campton-Bold.woff') format('woff'), 
+	     url('Campton-Bold.ttf')  format('truetype'),
+	     url('Campton-Bold.svg#Campton-Bold') format('svg');
+}
+
+@font-face {
+	font-family: 'Campton-Book';
+	src: url('Campton-Book.eot?') format('eot'), 
+	     url('Campton-Book.otf')  format('opentype'),
+	     url('Campton-Book.woff') format('woff'), 
+	     url('Campton-Book.ttf')  format('truetype'),
+	     url('Campton-Book.svg#Campton-Book') format('svg');
+}
+
+@font-face {
+	font-family: 'Campton-ExtraBold';
+	src: url('Campton-ExtraBold.eot?') format('eot'), 
+	     url('Campton-ExtraBold.otf')  format('opentype'),
+	     url('Campton-ExtraBold.woff') format('woff'), 
+	     url('Campton-ExtraBold.ttf')  format('truetype'),
+	     url('Campton-ExtraBold.svg#Campton-ExtraBold') format('svg');
+}
+
+@font-face {
+	font-family: 'Campton-ExtraLight';
+	src: url('Campton-ExtraLight.eot?') format('eot'), 
+	     url('Campton-ExtraLight.otf')  format('opentype'),
+	     url('Campton-ExtraLight.woff') format('woff'), 
+	     url('Campton-ExtraLight.ttf')  format('truetype'),
+	     url('Campton-ExtraLight.svg#Campton-ExtraLight') format('svg');
+}
+
+@font-face {
+	font-family: 'Campton-Light';
+	src: url('Campton-Light.eot?') format('eot'), 
+	     url('Campton-Light.otf')  format('opentype'),
+	     url('Campton-Light.woff') format('woff'), 
+	     url('Campton-Light.ttf')  format('truetype'),
+	     url('Campton-Light.svg#Campton-Light') format('svg');
+}
+
+@font-face {
+	font-family: 'Campton-Medium';
+	src: url('Campton-Medium.eot?') format('eot'), 
+	     url('Campton-Medium.otf')  format('opentype'),
+	     url('Campton-Medium.woff') format('woff'), 
+	     url('Campton-Medium.ttf')  format('truetype'),
+	     url('Campton-Medium.svg#Campton-Medium') format('svg');
+}
+
+@font-face {
+	font-family: 'Campton-SemiBold';
+	src: url('Campton-SemiBold.eot?') format('eot'), 
+	     url('Campton-SemiBold.otf')  format('opentype'),
+	     url('Campton-SemiBold.woff') format('woff'), 
+	     url('Campton-SemiBold.ttf')  format('truetype'),
+	     url('Campton-SemiBold.svg#Campton-SemiBold') format('svg');
+}
+
+@font-face {
+	font-family: 'Campton-Thin';
+	src: url('Campton-Thin.eot?') format('eot'), 
+	     url('Campton-Thin.otf')  format('opentype'),
+	     url('Campton-Thin.woff') format('woff'), 
+	     url('Campton-Thin.ttf')  format('truetype'),
+	     url('Campton-Thin.svg#Campton-Thin') format('svg');
+}
